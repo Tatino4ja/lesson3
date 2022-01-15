@@ -1,0 +1,27 @@
+.dva{
+    display: flex;
+}
+.home{
+    width: 200px;
+    height: 400px;
+    background: #f2519e;
+    margin: 10px;
+}
+.odyn{
+    height: 70px;
+    width: 420px;
+    background: #f2519e;
+    margin-left: 10px;
+}
+.tru{
+    display: flex;
+
+}
+.box{
+
+    width: 127px;
+    height: 150px;
+    background: #f2519e;
+    margin: 10px;
+
+}
