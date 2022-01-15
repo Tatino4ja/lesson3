@@ -1,0 +1,30 @@
+.A{
+    width: 460px;
+    height: 50px;
+    background: #f2519e;
+    margin: 10px;
+
+}
+.bcdefgh{
+    display: flex;
+}
+.bcdefg{
+    display: flex;
+    flex-direction: column;
+}
+.bcd{
+    display: flex;
+}
+.b{
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin: 10px;
+
+}
+.h{
+    width: 100px;
+    height: 220px;
+    background: #008071;
+    margin: 10px;
+}
