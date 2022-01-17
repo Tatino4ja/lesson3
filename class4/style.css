@@ -1,0 +1,63 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+}
+.kard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.block{
+    height: 300px;
+    width: 200px;
+    background: yellow;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.block> h2 {
+    margin-top: 30px;
+}
+.block> p{
+    text-align: center;
+    padding: 0 20px;
+
+}
+.icon, i{
+    font-size: 50px;
+
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 75px;
+    position: relative;
+    top: 20px;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    background: #ffffff;
+
+}
+.button> h3{
+    margin: 0;
+
+}
+.button{
+    width: 80px;
+    height: 40px;
+    background: pink;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
